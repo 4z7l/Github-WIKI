@@ -1,8 +1,7 @@
 # Git Commit Message Convention
 
-
-
-출처 : https://github.com/4z7l/Github-WIKI
+[![WrittenBy](https://img.shields.io/badge/Written%20by-4z7l-pink.svg)](https://github.com/4z7l/Github-WIKI/)
+[![RevisedBy](https://img.shields.io/badge/Revised%20by-Someone-green.svg)](https://github.com/4z7l/Github-WIKI/)
 
 <br>
 
